@@ -25,7 +25,10 @@ python3 -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
 ## 3.Install Dependencies
+```bash
 pip install flask easysnmp
+```
+
 
 ## 4.Configure Devices
 Create a devices.txt file in the project root with one Meraki device IP per line:
