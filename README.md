@@ -17,12 +17,19 @@ A lightweight Flask web application that monitors the status (Online/Offline) an
 ## Installation
 
 ## 1. Clone the Repository
+```bash
 git clone https://github.com/yourusername/Meraki-Device-Monitor.git
 cd Meraki-Device-Monitor
-
+```
 ## 2.Set Up a Virtual Environment
+```bash
 python3 -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+source .venv/bin/activate
+```
+# On Windows: 
+```bash
+.venv\Scripts\activate
+```
 
 ## 3.Install Dependencies
 ```bash
