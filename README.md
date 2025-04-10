@@ -60,3 +60,6 @@ The table will display the IP, hostname, and status of each device, updating eve
 
 ![image](https://github.com/user-attachments/assets/eaaaf76f-20bb-4c8b-adc4-254c8010e011)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/udarasandalthenuwara/Meraki-SNMP-local-monitoring/blob/main/License.md) file for details.
+
